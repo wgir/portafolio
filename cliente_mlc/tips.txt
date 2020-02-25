@@ -1,0 +1,6 @@
+Preparar para deploy
+npm install --save-dev dotenv
+
+npm run build
+
+serve -s build

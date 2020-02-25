@@ -1,0 +1,76 @@
+{
+	"locale": "es",
+        "messages": {
+			"formatoFecha":"dd/mm/aaaa",
+			"tituloHeader":"Formulario para Interponer Quejas  a Bordo, Convenio sobre el trabajo Maritimo 2006 (MLC 2006)",
+			"leyenda":"A través del presente formulario usted podrá interponer una queja a las autoridades del Estado chileno. La interposición de la queja debe cumplir con los requisitos establecidos en el Convenio, respecto de las características de las naves a las cuales les aplica.   Para poder grabar la queja, el solicitante deberá completar todos los campos establecidos en el formulario.",
+			"paisRecalada": "Pais de Recalada",
+			"seleccionarPuerto":"Seleccionar Puerto",
+			"puertoRecalada":"Puerto  de Recalada *",
+			"fechaRecalada":"Fecha de Recalada *",
+			"nroOMI":"Número OMI *",
+			"mensajeOMINOEncontrado":"OMI no encontrado",
+			"mensajeOMIVacio":"No se puede ingresar denuncia sin Nro OMI",
+			"errorFechaRecalada":"La fecha debe ser superior o igual a",
+			"seleccionar":"--Seleccionar--",
+			"faltanCampos":"Falta por digitar campos",
+			"errorFechaNacimiento":"La fecha de nacimiento no puede ser superior o igual a la fecha actual",
+			"errorLongitudOMI":"La longitud maxa de OMI es 7",
+			"botonSiguiente":"Siguiente",
+
+			
+			"tituloPersona":"Persona",
+			"nacionalidad":"Nacionalidad *",
+			"rut":"Rut/DNI *",
+			"pasaporte":"Pasaporte *",
+			"paisPasaporte":"Pais de Expedición Pasaporte *",
+			"nombre":"Nombre *",
+			"apellidoPaterno":"Apellido Paterno *",
+			"apellidoMaterno":"Apellido Materno",
+			"sexo":"Sexo *",
+			"fechaNacimiento":"Fecha de Nacimiento *",
+			"correoElectronico":"Correo Electrónico *",
+			"puestoTrabajo":"Puesto de Trabajo *",
+			"errorRutValido":"Rut no valido. Formato debe ser 999999999-9",
+			"errorEmailNoValido":"Correo electronico no valido @",
+
+			"selectColocacion":"Servicio de Colocación",
+			"selectArmador":"Armador",
+			"tituloColocacion":"Empresa",
+			"servicioColocacion":"Servicio de Colocación",
+			"nacionalidadArmador":"Nacionalidad",
+			"armador":"Armador",
+			"pais":"País",
+			"rutEmpresa":"Número de Identificación de la Empresa",
+			"nombreEmpresa":"Razón social",
+			"direccionEmpresa":"Domicilio Casa Matriz",
+			"paisContratacion":"País",
+			
+			"tituloEmbarcacion":"Datos Embarcación",
+			"tituloNave":"Nave",
+			"tipoNave":"Tipo de Nave",
+			"nombreCapitan":"Nombre del Capitán *",
+			"paisCapitan":"Nacionalidad del Capitán *",
+			"bandera":"Bandera",
+			"fechaEmbarco":"Fecha de Embarco *",
+			"fechaDesembarco":"Fecha de Desembarco ",
+
+			"tituloQueja":"Queja",
+			"materia":"Materia *",
+			"descripcionQueja":"Descripción de la Queja *",
+			"botonAtras":"Atras",
+			"botonGuardar":"Grabar y Enviar",
+
+			"leyendaFin":"Queja registrada con el identificador: ",
+			"botonNuevaQueja":"Nueva Queja",
+
+			"errorTipoNave":"El tipo de nave no es considerada para el convenio",
+			"errorPesaje":"El pesaje de la nave debe ser superior a",
+			"errorViajesInternaionales":"El tipo de nave no cumple con la condicion de viajes internacionales",
+			"errorFechaEmbarcoMayorDesembarco":"La fecha de embarco debe ser menor a la fecha de desembarco",
+			"errorFechaEmbarcoMayorActual":"La fecha de embarco no puede ser superior a la fecha actual",
+			"errorConexionAPI":"Error de conexion"
+
+          }
+	
+}
